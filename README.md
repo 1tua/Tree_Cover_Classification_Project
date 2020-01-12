@@ -10,7 +10,7 @@ Our mission is to develop a robust and high performing model that can predict th
 
 This dataset is consists of a mix of both categorical and continuous variables. These variables describe the geology of each sample forest region, and a multiclass label (one of seven possible tree cover types) serves as our target variable.
 
-Firstly we created a baseline line logistic model and ploted a ROC curve to see the performance of our model. The graph below shows the ROC Curve for each curve which used One vs Rest. Then the mirco and macro average is calulated and is plotted on the curve too. The AUC score for mirco and maro are 0.92 and 0.93
+A baseline line logistic model was created and ploted a ROC curve to see the performance of our model. The graph below shows the ROC Curve for each curve which used One vs Rest. Then the mirco and macro average is calulated and is plotted on the curve too. The AUC score for mirco and maro are 0.92 and 0.93
 
 ![](images/baseline_roc.png)
 
