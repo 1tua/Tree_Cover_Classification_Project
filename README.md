@@ -18,6 +18,9 @@ Using a Decision Tree on the dataset, the criterion used was gini and because wi
 
 ![](images/DT_roc.png)
 
-Using a Random Forest on the dataset, 'balanced' in the class_weight function is also used to fix the imbalance issue in the class. AUC score for micro and macro imporved to 0.96 and 0.92
+Using a Random Forest on the dataset, 'balanced' in the class_weight function is also used to fix the imbalance issue in the class. AUC score for micro and macro achieved 0.95 and 0.91
 
 ![](images/RF_roc.png)
+
+## Conclusion
+In conclusion the best model which achieved the highest AUC score was the Decision Tree. The high AUC score (0.96) suggest the model is very good at distinguishing between different forest cover types based on certain predictor variables.
