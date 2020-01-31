@@ -1,4 +1,4 @@
-# Tree_Cover_Classification_Project
+# Tree Cover Classification Project
 
 ## Business Case
 
